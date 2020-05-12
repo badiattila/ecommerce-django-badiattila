@@ -25,7 +25,7 @@ SECRET_KEY = '70kchbh(*@b*4a1$56n!12r--mtm=4tbztuxf#@3@wj2e*x*ks'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0afa20eb197342c4950cb753a9056c17.vfs.cloud9.eu-west-1.amazonaws.com']
+ALLOWED_HOSTS = ['0afa20eb197342c4950cb753a9056c17.vfs.cloud9.eu-west-1.amazonaws.com', 'ecommerce-django-badiattila.herokuapp.com']
 
 
 # Application definition
